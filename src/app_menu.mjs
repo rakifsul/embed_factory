@@ -83,7 +83,7 @@ function appMenuTemplate() {
                     label: "About",
                     click() {
                         // show message box containing about info
-                        dialog.showMessageBox(BrowserWindow.getFocusedWindow(), { title: "About", message: "RF Embed Protector 2024" });
+                        dialog.showMessageBox(BrowserWindow.getFocusedWindow(), { title: "About", message: "Embed Factory" });
                     },
                 },
                 {

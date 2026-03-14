@@ -1,5 +1,5 @@
 {
-  "name": "rf_embed_protector",
+  "name": "embed_factory",
   "version": "2024.12.05-1415",
   "description": "YouTube embed and PDF embed protection.",
   "author": "RAKIFSUL",
@@ -12,8 +12,8 @@
   },
   "build": {
     "buildVersion": "0",
-    "appId": "com.rakifsul.rf_embed_protector",
-    "productName": "RF Embed Protector",
+    "appId": "com.rakifsul.embed_factory",
+    "productName": "Embed Factory",
     "win": {
       "target": "nsis",
       "icon": "build/icon/box2-fill.png"

@@ -23,7 +23,7 @@ export default async function theApp() {
     // create base window
     const createWindow = async () => {
         mainWindow = new BrowserWindow({
-            title: `RF Embed Protector - ${isDev ? "Development" : "Production"}`,
+            title: `Embed Factory - ${isDev ? "Development" : "Production"}`,
             width: 800,
             height: 600,
             minWidth: 800,
